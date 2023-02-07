@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(179, 183, 243);
+}
+
+header {
+    
+    background-color: #0E6251;
+    padding-top: 25px;
+    padding-bottom: 150px;
+
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+
+    background-color: black;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 35px;
+
+}
+
+.Serviçosediversao {
+
+    margin-top: 45px;
+
+}
+
+
+
+.bem-vindo {
+
+    width: 500px;
+}
+
+.serviços2 {
+
+    background-color:  #138D75;
+    padding-bottom: 200px;
+    padding-top: 200px;
+
+}
+
+.service {
+
+    margin-top: 55px;
+
+}
+
+.conteudo {
+
+    background-color:#16A085;
+    padding-top: 150px;
+    padding-bottom: 190px;
+
+}
+
+.contato {
+
+    background-color: #1ABC9C;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+.img {
+    margin-top: 45px;
+    margin-bottom: 15px;
+}
